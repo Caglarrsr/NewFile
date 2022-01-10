@@ -7,7 +7,7 @@ print("-"*34 + "Welcome" + "-"*26)
 print("1-Cmd Panel", "2-Chrome", "3-Instagram", 
       "4-Twitter", "5-Linkedin","6-Facebook",
       "7-Github","8-Calculator","9-Port Scan",
-      "10-Powershell","11-Make Password","12-DDoS",sep = "\t" )
+      "10-Powershell","11-Make Password",sep = "\t" )
 print(" ")
 print("What you want?")
 user = input("Write here ---> ")
